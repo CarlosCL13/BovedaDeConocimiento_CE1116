@@ -2,7 +2,7 @@
 Fecha de creación: 2025-08-06 18:57
 Fecha de Modificación: 2025-08-06 18:57
 tags:
-  - ingeniería-de-software
+  - requerimientos
 Tema:
 ---
 

@@ -14,7 +14,7 @@ Persona, grupo u organización que está activamente involucrada en un proyecto,
 - 
 
 ## 🔗 Connections
-- [[]]
+- [[Requerimientos de Negocio]]
 
 ## 💡 Personal Insight (Opcional)
 - 
