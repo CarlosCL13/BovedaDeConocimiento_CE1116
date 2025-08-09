@@ -10,12 +10,16 @@ Topic:
 
 ## 📚 Idea/Concepto 
 
-
+Un marco de trabajo ágil basado en equipos para desarrollar sistemas complejos y
+productos.
 ## 📌 Puntos Claves (Opcional)
-- 
+- Es iterativo e incremental.
 
 ## 🔗 Connections
-- [[Entrevistas]]
+- [[Filosofía ágil]]
+- [[Product Backlog]]
+- [[Product Owner]]
+- [[Sprint Backlog]]
 
 ## 💡 Personal Insight (Opcional)
 - 
