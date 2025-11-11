@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "Mecanismo de atención utilizado en la arquitectura de Transformers"
             }
+          },
+          {
+            "id": "edcdd5e3474cedf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/10_Conceptos de Arquitectura/Cohesión en desarrollo de software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cohesión en desarrollo de software"
+            }
+          },
+          {
+            "id": "596750d7ae20ce12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/10_Conceptos de Arquitectura/Broker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Broker"
+            }
+          },
+          {
+            "id": "8b84ff09be160f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CE1116/10_Conceptos de Arquitectura/Arquitectura Event Driver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquitectura Event Driver"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CE1116/09_Principios de IA/Mecanismo de atención utilizado en la arquitectura de Transformers.md",
+                "file": "CE1116/10_Conceptos de Arquitectura/Arquitectura Event Driver.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Mecanismo de atención utilizado en la arquitectura de Transformers"
+              "title": "Esquema de Arquitectura Event Driver"
             }
           }
         ],
@@ -159,6 +202,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -168,15 +212,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9665af2978c79156",
+  "active": "8b84ff09be160f56",
   "lastOpenFiles": [
+    "CE1116/10_Conceptos de Arquitectura/Broker.md",
+    "CE1116/10_Conceptos de Arquitectura/Arquitectura en Capas.md",
+    "CE1116/10_Conceptos de Arquitectura/Arquitectura de Software de Microkernel.md",
+    "CE1116/10_Conceptos de Arquitectura/Acoplamiento en desarrollo de software.md",
+    "CE1116/10_Conceptos de Arquitectura/Cohesión en desarrollo de software.md",
+    "CE1116/10_Conceptos de Arquitectura/Disponibilidad de la aplicación.md",
+    "CE1116/10_Conceptos de Arquitectura/Estrategia de modelado de la arquitectura por puntos de vista.md",
+    "CE1116/10_Conceptos de Arquitectura/Latencia.md",
+    "CE1116/10_Conceptos de Arquitectura/Arquitectura Event Driver.md",
+    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
+    "CE1116/10_Conceptos de Arquitectura/Throughput.md",
+    "CE1116/10_Conceptos de Arquitectura/Trade off en el diseño y arquitectura de software.md",
+    "CE1116/10_Conceptos de Arquitectura",
     "CE1116/09_Principios de IA/Redes Neuronales.md",
     "CE1116/09_Principios de IA/Embeddings.md",
     "CE1116/09_Principios de IA/Large Language Models (LLMs).md",
     "CE1116/09_Principios de IA/Mecanismo de atención utilizado en la arquitectura de Transformers.md",
     "CE1116/09_Principios de IA/Ventana de Contexto del modelo.md",
     "CE1116/09_Principios de IA/Tokenización.md",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
     "CE1116/09_Principios de IA",
     "CE1116/01_Procesos de Desarrollo/Filosofía ágil.md",
     "CE1116/01_Procesos de Desarrollo/Definition of Done (DoD).md",
@@ -186,17 +242,6 @@
     "CE1116/02_Requerimientos/Requerimientos Funcionales.md",
     "CE1116/02_Requerimientos/Requerimientos de Sistema.md",
     "CE1116/05_Pruebas/Pruebas Funcionales.md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "CE1116/02_Requerimientos/Entrevistas.md",
-    "CE1116/02_Requerimientos/Requerimientos de Negocio.md",
-    "CE1116/01_Procesos de Desarrollo/Velocity.md",
-    "CE1116/01_Procesos de Desarrollo/Story Points.md",
-    "CE1116/01_Procesos de Desarrollo/Sprint Planning.md",
-    "CE1116/01_Procesos de Desarrollo/Sprint Backlog.md",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
-    "CE1116/01_Procesos de Desarrollo/Product Owner.md",
-    "CE1116/01_Procesos de Desarrollo/Product Backlog.md",
-    "CE1116/01_Procesos de Desarrollo/Planning Poker.md",
     "Untitled.canvas",
     "CE1116/08_Templates",
     "CE1116/00_Inbox",
@@ -205,7 +250,6 @@
     "Untitled",
     "CE1116/06_Despliegue e Infrastructura",
     "CE1116/05_Pruebas",
-    "CE1116/04_Implementación",
-    "CE1116/03_Arquitectura y Diseño"
+    "CE1116/04_Implementación"
   ]
 }
